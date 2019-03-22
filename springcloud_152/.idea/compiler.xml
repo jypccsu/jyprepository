@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="consumer" />
+        <module name="democonsumer" />
+        <module name="demoprovider" />
+        <module name="demozuul" />
+        <module name="producer" />
+        <module name="springcloud_152" />
+        <module name="springcloud_152_1" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="characterrecog" target="1.8" />
+      <module name="consumer" target="1.8" />
+      <module name="democonsumer" target="1.8" />
+      <module name="demoprovider" target="1.8" />
+      <module name="demozuul" target="1.8" />
+      <module name="producer" target="1.8" />
+      <module name="springcloud_152" target="1.8" />
+      <module name="springcloud_152_1" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
